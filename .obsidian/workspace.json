@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "1cf7903dbdd563ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7dd19fdc9e7a58f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a54528d119801c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/CKObject/MagicEffect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a0986dba23f4bbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17c780b77d7f094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d5b3bb50666489",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae58e16a29abda71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1299358216153762",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16ccc1830e88398f",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d1ccd513cfa157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e6cecdcd610d479",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/CKObject/MagicEffect.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e4731315d8d808d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/CKObject/MagicEffect.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dccb61158b78d5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45333c98e62f03f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/CKObject/MagicEffect.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9a54528d119801c7",
+  "lastOpenFiles": [
+    "docs/CKObject/Explosion.md",
+    "README.md",
+    "tools/readme.md",
+    "docs/papyrus/Actor.md",
+    "docs/papyrus/Script Event.md",
+    "docs/papyrus/ObjectReference.md",
+    "docs/papyrus/Console.md",
+    "docs/papyrus/Animation.md",
+    "docs/papyrus/Quest.md",
+    "docs/papyrus/Debug.md",
+    "docs/papyrus/语法.md",
+    "docs/CKObject/MagicEffect.md",
+    "docs/image/magicEffect.png",
+    "docs/items/Types of Crimes.md",
+    "docs/papyrus",
+    "docs/items",
+    "docs/CKObject",
+    "docs/image/explosion.png",
+    "'./image/'.md",
+    "'./image",
+    "'.",
+    "docs",
+    "tools/readme",
+    "tools/新建文本文档.txt",
+    "tools/CreationKit1.5.73.zip",
+    "tools/CreationKit1.5.73.rar"
+  ]
+}
