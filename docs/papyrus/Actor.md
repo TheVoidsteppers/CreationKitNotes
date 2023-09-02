@@ -6,7 +6,6 @@
 
 ### ApplyHavokImpulse
 
-
 ```c
 ApplyHavokImpulse(Float afX, Float afY, Float afZ, Float afMagnitude)
 ```
@@ -153,7 +152,68 @@ UnequipSpell(Spell akSpell, Int aiSource)
 # 角色的武器收起
 ```
 
+### DrawWeapon
 
+```c
+# 强迫角色拔出武器
+```
+### EnableAI
+
+```c
+# 启用或禁用该角色的AI
+```
+
+### Int GetGoldAmount
+
+```c
+# 获取该角色身上拥有的金币数量.
+```
+
+### Resurrect()
+
+```c
+# 复活.
+```
+### SendAssaultAlarm()
+
+```c
+# 发送攻击警报
+```
+
+### SendTrespassAlarm(Actor akCriminal)
+
+```c
+# 发送入侵警报.
+```
+### SetActorValue(String asValueName, Float afValue)
+
+
+```c
+# 更改角色属性值.
+```
+### SetAlert(Bool abAlerted)
+
+```c
+# 将参与者标记/清除当前已收到警报.
+```
+
+### StartSneaking()
+
+```c
+# 强迫改角色进入潜行状态.
+```
+
+### StopCombat()
+
+```c
+# 停止战斗.
+```
+
+### StopCombatAlarm()
+
+```c
+# 停止该角色的所有的战斗和警报.
+```
 
 
 

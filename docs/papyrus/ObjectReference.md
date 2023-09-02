@@ -7,19 +7,19 @@
 ### SendStealAlarm
 
 ```c
- SendStealAlarm(Actor akThief)
- # Syntax
- Function SendStealAlarm(Actor akThief)
- 
- # Parameters
- # akThief: 将表演“盗窃”的角色
- 
- # Return Value
- # None.
- 
- # Examples
- # 玩家刚刚试图偷窃百万美元
- MillionDollars.SendStealAlarm(Game.GetPlayer())
+SendStealAlarm(Actor akThief)
+# Syntax
+Function SendStealAlarm(Actor akThief) native
+
+# Parameters
+# akThief: 将表演“盗窃”的角色
+
+# Return Value
+# None.
+
+# Examples
+# 玩家刚刚试图偷窃百万美元
+MillionDollars.SendStealAlarm(Game.GetPlayer())
 ```
 
 - 发送盗窃警报，如同该 reference 刚刚被这个角色偷窃了
@@ -70,7 +70,7 @@ bool Function playAnimation(string asAnimation) native
 Switch.PlayAnimation("flip")
 
 # notes
-无法对角色使用。对于角色，请使用 SendAnimationEvent，这会绕过对 ObjectReference 的检查,从而阻止向参与者发送事件，如果你使用它向角色发送事件，可能会导致角色卡动画，你可以使用 PlayIdle(IdleStop_Loose)取消卡住
+# 无法对角色使用。对于角色，请使用 SendAnimationEvent，这会绕过对 ObjectReference 的检查,从而阻止向参与者发送事件，如果你使用它向角色发送事件，可能会导致角色卡动画，你可以使用 PlayIdle(IdleStop_Loose)取消卡住
 ```
 
 ### PlayAnimationAndWait 
