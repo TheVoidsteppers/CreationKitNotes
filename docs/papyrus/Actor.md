@@ -10,7 +10,7 @@
 ApplyHavokImpulse(Float afX, Float afY, Float afZ, Float afMagnitude)
 ```
 
-- 向该对象施加 Havok 冲力。
+- 向该对象施加 Havok 冲力。可移动物品，非NPC
 
 ### SetScale
 
