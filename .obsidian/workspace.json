@@ -11,11 +11,9 @@
             "id": "9a54528d119801c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/CKObject/MagicEffect.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/image/enchantment.png"
               }
             }
           },
@@ -31,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/CKObject/MagicEffect.md",
+                "file": "docs/image/enchantment.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/CKObject/MagicEffect.md",
+                "file": "docs/image/enchantment.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/CKObject/MagicEffect.md"
+                "file": "docs/image/enchantment.png"
               }
             }
           },
@@ -148,7 +145,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -169,29 +168,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14c5fba90c0666f0",
+  "active": "9a54528d119801c7",
   "lastOpenFiles": [
-    "docs/papyrus/Debug.md",
-    "docs/CKObject/Enchantment.md",
-    "docs/CKObject/Explosion.md",
-    "README.md",
+    "docs/CKObject/NPC.md",
     "docs/CKObject/MagicEffect.md",
+    "docs/CKObject/Explosion.md",
+    "docs/CKObject/Enchantment.md",
+    "docs/image/magicEffect.png",
+    "tools/readme.md",
+    "docs/papyrus/语法.md",
+    "docs/papyrus/Spell.md",
+    "docs/papyrus/Script Event.md",
+    "docs/papyrus/Quest.md",
+    "docs/papyrus/ObjectReference.md",
+    "docs/papyrus/Debug.md",
+    "docs/papyrus/Console.md",
+    "docs/papyrus/Animation.md",
+    "docs/papyrus/Actor.md",
+    "README.md",
     "docs/CKObject/Spell.md",
     "docs/image/spell.png",
-    "docs/papyrus/ObjectReference.md",
-    "docs/papyrus/Quest.md",
-    "docs/papyrus/Script Event.md",
-    "docs/papyrus/Spell.md",
-    "docs/papyrus/Actor.md",
-    "docs/papyrus/Console.md",
     "docs/image/enchantment.png",
-    "docs/papyrus/Animation.md",
-    "docs/CKObject/NPC.md",
     "docs/image/npc.png",
-    "docs/papyrus/语法.md",
     "docs/items/Types of Crimes.md",
-    "tools/readme.md",
-    "docs/image/magicEffect.png",
     "docs/papyrus",
     "docs/items",
     "docs/CKObject",
